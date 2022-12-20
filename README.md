@@ -31,3 +31,7 @@ We learned a lot about how we could integrate **Google Cloud Platform** services
 ## What's next for DeepEducation
 We plan on continuing the development of DeepEducation after this hackathon. Some future improvements could be developing a more refined front-end and making the dubbed voice match not only the native language of the speaker, but also their personal tone, quirks, and inflections. Additionally, we will use **Google Cloud App Engine** to completely deploy our application so that users across the world can access our revolutionary platform. 
 
+## Demo Video
+[![DeepEducation Demo](https://img.youtube.com/vi/8LRFNTedSxY/0.jpg)](https://www.youtube.com/watch?v=8LRFNTedSxY "DeepEducation Demo")
+
+
